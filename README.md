@@ -1,4 +1,4 @@
-# Hey, I'm Jay P
+# Hey, I'm DJ PRO JAY
 
 🎧 DJ by night, 💻 developer by day.  
 I mix **beats** and **code** — sometimes at the same time.
