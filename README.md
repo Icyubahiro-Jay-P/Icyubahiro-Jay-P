@@ -1,6 +1,6 @@
 # Hey, I'm DJ PRO JAY
 
-🎧 DJ by night, 💻 developer by day.  
+DJ by night, developer by day.  
 I mix **beats** and **code** — sometimes at the same time.
 
 I enjoy building things that look good, feel smooth, and actually work.  
@@ -8,7 +8,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 
 ---
 
-## 🌐 Reach Me
+## Reach Me
 <p align="left">
   <a href="https://instagram.com/dj_pro_jay" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -55,7 +55,6 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
   </div>
 </div>
----
 
 ## Leasure
 DJing taught me timing, flow, and rhythm —  
@@ -63,4 +62,4 @@ turns out those skills translate really well into code.
 
 ---
 
-⭐ Check out my repositories and feel free to drop a star if something catches your eye.
+Check out my repositories and feel free to drop a star if something catches your eye.
