@@ -47,7 +47,11 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 
 </p>
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=radical)
 
 ---
 
