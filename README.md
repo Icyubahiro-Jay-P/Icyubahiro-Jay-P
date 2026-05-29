@@ -50,8 +50,8 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 <div id="github-stats" align="center" style="padding: 20px; margin: 20px 0;">
   <h2>📈 GitHub Stats</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
   </div>
 </div>
