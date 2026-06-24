@@ -26,7 +26,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true&card_width=1000&card_height=500)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true&card_width=1000&card_height=600)
 
 </div>
 
@@ -44,7 +44,6 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-
 </p>
 <h2>GitHub Analytics</h2>
 
