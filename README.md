@@ -22,9 +22,11 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 </p>
 
 ---
-
 <h2>Top languages</h2>
+
 <div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true)
 
 </div>
 
