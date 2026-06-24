@@ -23,13 +23,10 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 
 ---
 
-## Hobbies
-- Web Development
-- Creative Frontend Experiences
-- Full-Stack Applications
-- Music & Tech Fusion
-
----
+<h2>Top languages</h2>
+<div align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true)
+</div>
 
 ## Dev Skills
 
@@ -47,12 +44,12 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 
 </p>
-## 📈 GitHub Analytics
+<h2>GitHub Analytics</h2>
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=blue_navy&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=blue_navy&hide_border=true)
 
 </div>
