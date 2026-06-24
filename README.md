@@ -52,7 +52,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
   <div>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=blue_navy&hide_border=true)
   </div>
 </div>
 
