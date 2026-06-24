@@ -26,7 +26,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true&card_width=1000&card_height=700)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true&card_width=1000&card_height=700&langs_count=10)
 
 </div>
 
