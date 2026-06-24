@@ -24,10 +24,17 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 ---
 <h2>Top languages</h2>
 
-<div align="center">
+<!-- <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true&card_width=1000&card_height=700&langs_count=10)
 
+</div>
+-->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true"
+    width="80%"
+  />
 </div>
 
 ## Dev Skills
