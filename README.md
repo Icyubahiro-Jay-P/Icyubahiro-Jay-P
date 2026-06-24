@@ -47,13 +47,14 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 
 </p>
-<div id="github-stats" align="center" style="padding: 20px; margin: 20px 0;">
-  <h2>📈 GitHub Stats</h2>
-  <div>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/> -->
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=blue_navy&hide_border=true)
-  </div>
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=blue_navy&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=blue_navy&hide_border=true)
+
 </div>
 
 ## Leasure
