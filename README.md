@@ -33,7 +33,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true"
-    width="80%"
+    width="100%" height="500"
   />
 </div>
 
