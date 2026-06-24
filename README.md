@@ -25,7 +25,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 
 <h2>Top languages</h2>
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true)
+
 </div>
 
 ## Dev Skills
@@ -47,9 +47,8 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 <h2>GitHub Analytics</h2>
 
 <div>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=blue_navy&hide_border=true)
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=blue_navy&hide_border=true)
 
 </div>
