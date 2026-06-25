@@ -49,7 +49,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=blue_navy&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=blue_navy&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=blue_navy&hide_border=true&card_width=467)
 
 </div>
 
