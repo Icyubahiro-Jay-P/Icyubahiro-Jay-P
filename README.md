@@ -1,7 +1,7 @@
 # Hey, I'm DJ PRO JAY
 
 DJ by night, developer by day.  
-I mix **beats** and **code** — sometimes at the same time.
+I mix **beats** and **code** sometimes at the same time.
 
 I enjoy building things that look good, feel smooth, and actually work.  
 Whether it’s a clean UI, a creative web experience, or a solid backend, I’m in.
@@ -46,7 +46,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 </div>
 
 ## Leasure
-DJing taught me timing, flow, and rhythm —  
+DJing taught me timing, flow, and rhythm
 turns out those skills translate really well into code.
 
 ---
