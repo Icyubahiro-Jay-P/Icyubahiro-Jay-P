@@ -45,7 +45,7 @@ Whether it’s a clean UI, a creative web experience, or a solid backend, I’m 
 
 </div>
 
-## Leasure
+## Leasure Time
 DJing taught me timing, flow, and rhythm
 turns out those skills translate really well into code.
 
