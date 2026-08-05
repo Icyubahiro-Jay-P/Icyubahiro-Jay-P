@@ -1,3 +1,4 @@
+<p align="center">[![committers.top badge](https://user-badge.committers.top/rwanda/Icyubahiro-Jay-P.svg)](https://user-badge.committers.top/rwanda/Icyubahiro-Jay-P)</p>
 # Hey, I'm DJ PRO JAY
 
 DJ by night, developer by day.  
