@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Icyubahiro-Jay-P&label=Profile+Views&color=1A94FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/Icyubahiro-Jay-P?label=Followers&style=flat&color=2EB82E" />
+  <img src="https://img.shields.io/github/stars/Icyubahiro-Jay-P?label=Stars&style=flat&color=FFD700" />
+</p>
 # Hey, I'm DJ PRO JAY
 
 DJ by night, developer by day.  
@@ -7,11 +12,6 @@ I enjoy building things that look good, feel smooth, and actually work.
 Whether it’s a clean UI, a creative web experience, or a solid backend, I’m in.
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Icyubahiro-Jay-P&label=Profile+Views&color=1A94FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/Icyubahiro-Jay-P?label=Followers&style=flat&color=2EB82E" />
-  <img src="https://img.shields.io/github/stars/Icyubahiro-Jay-P?label=Stars&style=flat&color=FFD700" />
-</p>
 
 ## Reach Me
 <p align="left">
