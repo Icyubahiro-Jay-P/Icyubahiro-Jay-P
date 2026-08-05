@@ -6,7 +6,7 @@
 </p>
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/rwanda_public/Icyubahiro-Jay-P.svg)](https://user-badge.committers.top/rwanda_public/Icyubahiro-Jay-P)
+[![committers.top badge](https://user-badge.committers.top/rwanda/Icyubahiro-Jay-P.svg)](https://user-badge.committers.top/rwanda/Icyubahiro-Jay-P)
 
 </div>
 
