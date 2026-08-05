@@ -4,6 +4,11 @@
   <img src="https://img.shields.io/github/followers/Icyubahiro-Jay-P?label=Followers&style=flat&color=2EB82E" />
   <img src="https://img.shields.io/github/stars/Icyubahiro-Jay-P?label=Stars&style=flat&color=FFD700" />
 </p>
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/rwanda_public/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda_public/AlineHub-tech)
+
+</div>
 
 DJ by night, developer by day.  
 I mix **beats** and **code** sometimes at the same time.
