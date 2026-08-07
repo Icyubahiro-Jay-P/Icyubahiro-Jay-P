@@ -75,13 +75,13 @@ This is an open source platform to help people with mental problems get the ther
 
 ### GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Icyubahiro-Jay-P&show_icons=true&theme=blue_navy&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icyubahiro-Jay-P&layout=compact&theme=blue_navy&hide_border=true" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icyubahiro-Jay-P&theme=blue_navy&hide_border=true&card_width=467" />
