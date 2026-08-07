@@ -17,7 +17,7 @@
 
 ### About Me
 
-I build things that look good, feel smooth, and actually work — clean UIs, creative web experiences, and solid backends to run them on.
+I build things that look good, feel smooth, and actually work clean UIs, creative web experiences, and solid backends to run them on.
 
 DJing taught me timing, flow, and rhythm. Turns out those translate surprisingly well into writing code that just *feels* right.
 
