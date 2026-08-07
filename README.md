@@ -65,11 +65,11 @@ My personal portifolio that showcases my skills, projects, and achievements in t
 This is an open source platform to help people with mental problems get the therapy they can not afford through secure channels.
 `React` `Node.js` `Mongo DB` — [Live Demo](https://therabridge.vercel.app)
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/Icyubahiro-Jay-P/therabridge-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Icyubahiro-Jay-P&repo=therabridge-frontend&theme=blue_navy" />
   </a>
-</p>
+</p> -->
 
 ---
 
