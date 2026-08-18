@@ -22,7 +22,7 @@ I build things that look good, feel smooth, and actually work clean UIs, creativ
 DJing taught me timing, flow, and rhythm. Turns out those translate surprisingly well into writing code that just *feels* right.
 
 - Currently building: *Therabridge*
-- Currently learning: *Next.js, PostgreSQL*
+- Currently learning: *React-native*
 - Ask me about: React, Node.js, or how to mix a set
 - Fun fact: I've probably debugged code between DJ sets
 
