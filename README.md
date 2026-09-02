@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jay P</h1>
+<h1 align="center">Hey, I'm Jay P.</h1>
 <h3 align="center">DJ by night. Developer by day. Occasionally both at once.</h3>
 
 <p align="center">
