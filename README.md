@@ -24,7 +24,7 @@ DJing taught me timing, flow, and rhythm. Turns out those translate surprisingly
 - Currently building: *Therabridge*
 - Currently learning: *React-native*
 - Ask me about: React, Node.js, or how to mix a set
-- Fun fact: I've probably debugged code between DJ sets
+- Fun fact: I've probably debugged code between DJ sets.
 
 ---
 
