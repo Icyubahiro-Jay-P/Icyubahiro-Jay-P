@@ -10,6 +10,7 @@
 <div align="center">
 
 [![committers.top badge](https://user-badge.committers.top/rwanda/Icyubahiro-Jay-P.svg)](https://user-badge.committers.top/rwanda/Icyubahiro-Jay-P)
+[![Claude Academy](https://img.shields.io/badge/Claude%20Academy-Verified-8A2BE2?logo=anthropic&logoColor=white)](https://academy.claude.com/verify/eb0a899f10290205d1493952836d3f4e)
 
 </div>
 
