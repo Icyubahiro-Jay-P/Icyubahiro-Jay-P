@@ -1,13 +1,11 @@
 <h1 align="center">Hey, I'm Jay P.</h1>
 <h3 align="center">DJ by night. Developer by day. Occasionally both at once.</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Icyubahiro-Jay-P&label=Profile+Views&color=1A94FF&style=flat" />
   <img src="https://img.shields.io/github/followers/Icyubahiro-Jay-P?label=Followers&style=flat&color=2EB82E" />
   <img src="https://img.shields.io/github/stars/Icyubahiro-Jay-P?label=Stars&style=flat&color=FFD700" />
-</p>
 
-<div align="center">
   
 [![Claude Academy](https://img.shields.io/badge/Claude%20Academy-Verified-8A2BE2?logo=anthropic&logoColor=white)](https://academy.claude.com/verify/eb0a899f10290205d1493952836d3f4e)
 [![Claude Academy Verified](https://img.shields.io/badge/Claude%20Academy-Verified-success?logo=anthropic&logoColor=white)](https://academy.claude.com/verify/0ba15c3a68bd02816e0dd55fc08f0e07)
