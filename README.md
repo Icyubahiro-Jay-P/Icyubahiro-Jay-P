@@ -16,7 +16,7 @@
 
 ---
 
-### About Me
+### About Me.
 
 I build things that look good, feel smooth, and actually work clean UIs, creative web experiences, and solid backends to run them on.
 
