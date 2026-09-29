@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Jay P.</h1>
-<h3 align="center">DJ by night. Dev by day. Occasionally both at once.</h3>
+<h3 align="center">DJ by night. Dev by day. Occasionally both at once.🤌🏿</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Icyubahiro-Jay-P&label=Profile+Views&color=1A94FF&style=flat" />
